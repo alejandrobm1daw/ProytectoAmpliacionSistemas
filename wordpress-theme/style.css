@@ -1,0 +1,22 @@
+/*
+Theme Name: Mi Tema WebFusion
+Theme URI: https://github.com/alejandrobm1daw/ProytectoAmpliacionSistemas
+Author: Alejandro
+Description: Tema personalizado para WebFusion Digital
+Version: 1.0
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+p {
+    color: #555;
+}
